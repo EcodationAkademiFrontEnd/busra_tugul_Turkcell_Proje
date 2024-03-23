@@ -1,5 +1,5 @@
-# TUKCELL AFET ANINNDA NASIL YARDIMCI OLUYOR PROJESİ
-Orjinal projeye ek olarak kullanıcı deneyimi düşünülünerek scrollx eklenmiştir. Site tüm ekranlara uyumlu şekilde responsive tasarlanmıştır.
+# TUKCELL AFET ANINDA NASIL YARDIMCI OLUYOR PROJESİ
+Orjinal projeye ek olarak kullanıcı deneyimi düşünülerek scroll-x eklenmiştir. Site tüm ekranlara uyumlu şekilde responsive tasarlanmıştır.
 
 - Kullanılan kütüphaneler
   - Bootstrap
