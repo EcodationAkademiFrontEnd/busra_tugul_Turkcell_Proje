@@ -4,6 +4,8 @@ Orjinal projeye ek olarak kullanıcı deneyimi düşünülünerek scrollx eklenm
 - Kullanılan kütüphaneler
   - Bootstrap
   - Swiper js
+  - Font Awesome
+  - Google Fonts
   
 
 Web sitesine hızlı bakış için => [Netfly](https://65feb139430d3ee26acca226--stunning-nasturtium-d6a579.netlify.app/)
